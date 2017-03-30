@@ -1,3 +1,3 @@
 # 颜cnode
 
-这个repo仅用来提交issues和收集星星。
+This repo is for collecting issues and stars. However, the source code for cnode.zizisoft.com isn't available to download. We apologize for this.
