@@ -1,6 +1,8 @@
 颜cnode
 ===========
 
+cnode.zizisoft.com
+
 欢迎提交bug
 --------------
 
