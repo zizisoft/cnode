@@ -1,3 +1,10 @@
-# 颜cnode
+颜cnode
+===========
 
-This repo is for collecting issues (or stars). However, the source code of *cnode.zizisoft.com* isn't available to download. We apologize for this.
+欢迎提交bug
+--------------
+
+源代码
+---------------
+
+如果本站使用的技术被大量模仿，可能会造成CNode官网的负担，所以本站暂不开源。
